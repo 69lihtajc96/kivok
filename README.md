@@ -8,6 +8,8 @@
 **kivok.py** is a Python script that tracks head movements via webcam and converts sharp nods into key presses.  
 Useful for experimenting with hands-free interfaces, accessibility solutions, or just as a fun hack.
 
+![kivok banner](./assets/kivok_demo.png)
+
 ---
 
 ## ⚡ Features
