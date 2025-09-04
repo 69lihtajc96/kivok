@@ -1,6 +1,7 @@
 ![kivok banner](banner.png)
 
 # 🎥 kivok.py — head nod keyboard control
+![Kivok](https://img.shields.io/badge/Kivok-Network%20Blocker-003366?style=for-the-badge&labelColor=000022)
 
 [🇷🇺 Russian](README_RU.md)
 
