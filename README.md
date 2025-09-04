@@ -1,3 +1,5 @@
+![kivok banner](banner.png)
+
 # 🎥 kivok.py — head nod keyboard control
 
 [🇷🇺 Russian](README_RU.md)
