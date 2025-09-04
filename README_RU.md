@@ -1,6 +1,7 @@
 ![kivok banner](banner.png)
 
 # 🎥 kivok.py — управление клавиатурой через кивки головой
+![Kivok](https://img.shields.io/badge/Kivok-Менеджер%20сетевых%20блокировок-660000?style=for-the-badge&labelColor=330000)
 
 [🇬🇧 English](README.md)
 
